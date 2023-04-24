@@ -22,7 +22,7 @@ public class Task1{
                
         for (int j = i; j < Short.MAX_VALUE; j++){
             if (j % n == 0) {
-                m1[count++] = j;
+                m1[count++]=j;
                 }
         } 
 
